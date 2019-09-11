@@ -16,8 +16,10 @@ latest known android: | unofficial cm12
 
 Even for its age I think its still pretty good box with great feature of botting recovery from microSD if recovery.img present which like heaven you dont need to painfully flash recovery every time you want to change it et... So I want to make a new Android for it, Iam working with Lineage OS 16, you can see it there https://github.com/honzapatCZ/android_device_Amlogic_mk8080bplus
 
-###Images
+### Images
+
 Images
+
 <img src="img/device (1).jpg" width="50%"></img>
 <img src="img/device (2).jpg" width="50%"></img> 
 <img src="img/device (3).jpg" width="50%"></img> 
