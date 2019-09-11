@@ -1,2 +1,2 @@
 theme: jekyll-theme-minimal
-logo: ({{ site.url }}/img/device (1).jpg)
+logo: /img/device (1).jpg
