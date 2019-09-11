@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## MK8080B+ Android box research
 
-You can use the [editor on GitHub](https://github.com/honzapatCZ/MK8080B-Research/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is aimed at providing info about MK8080B+ Android box which is a good box but not well documented or maintained
 
 ### Markdown
 
