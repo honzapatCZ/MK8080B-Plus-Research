@@ -2,34 +2,10 @@
 
 This repository is aimed at providing info about MK8080B+ Android box which is a good box but not well documented or maintained
 
-### Markdown
+### What is known
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you search it on google you get tone of garbage in 1000+ different languages and whatever so there we have what is somewhat unified from different parts of the internet
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/honzapatCZ/MK8080B-Research/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+name: | mk8080b+/plus
+codename: | m102/m102c
+cpu: | Amlogic M805/S805
