@@ -20,9 +20,9 @@ Even for its age I think its still pretty good box with great feature of botting
 
 Images
 
-<img src="img/device (1).jpg" width="50%"></img>
-<img src="img/device (2).jpg" width="50%"></img> 
-<img src="img/device (3).jpg" width="50%"></img> 
+<img src="img/device (1).jpg" width="50%">
+<img src="img/device (2).jpg" width="50%">
+<img src="img/device (3).jpg" width="50%">
 <img src="img/device (4).jpg" width="50%"></img> 
 <img src="img/device (5).jpg" width="50%"></img> 
 <img src="img/device (6).jpg" width="50%"></img> 
