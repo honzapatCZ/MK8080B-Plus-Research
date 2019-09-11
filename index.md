@@ -20,25 +20,25 @@ Even for its age I think its still pretty good box with great feature of botting
 
 Images
 
-<img src="img/device (1).jpg" width="50%">
-<img src="img/device (2).jpg" width="50%">
-<img src="img/device (3).jpg" width="50%">
-<img src="img/device (4).jpg" width="50%"></img> 
-<img src="img/device (5).jpg" width="50%"></img> 
-<img src="img/device (6).jpg" width="50%"></img> 
-<img src="img/device (7).jpg" width="50%"></img> 
-<img src="img/device (8).jpg" width="50%"></img> 
-<img src="img/device (9).jpg" width="50%"></img> 
-<img src="img/device (10).jpg" width="50%"></img> 
-<img src="img/device (11).jpg" width="50%"></img> 
-<img src="img/device (12).jpg" width="50%"></img> 
-<img src="img/device (13).jpg" width="50%"></img> 
-<img src="img/device (14).jpg" width="50%"></img> 
-<img src="img/device (15).jpg" width="50%"></img> 
-<img src="img/device (16).jpg" width="50%"></img> 
-<img src="img/device (17).jpg" width="50%"></img> 
-<img src="img/device (18).jpg" width="50%"></img> 
-<img src="img/device (19).jpg" width="50%"></img> 
+<img src="img/device (1).jpg" width="45%">
+<img src="img/device (2).jpg" width="45%">
+<img src="img/device (3).jpg" width="45%">
+<img src="img/device (4).jpg" width="45%">
+<img src="img/device (5).jpg" width="45%">
+<img src="img/device (6).jpg" width="45%">
+<img src="img/device (7).jpg" width="45%">
+<img src="img/device (8).jpg" width="45%">
+<img src="img/device (9).jpg" width="45%">
+<img src="img/device (10).jpg" width="45%">
+<img src="img/device (11).jpg" width="45%">
+<img src="img/device (12).jpg" width="45%"> 
+<img src="img/device (13).jpg" width="45%"> 
+<img src="img/device (14).jpg" width="45%">
+<img src="img/device (15).jpg" width="45%">
+<img src="img/device (16).jpg" width="45%">
+<img src="img/device (17).jpg" width="45%">
+<img src="img/device (18).jpg" width="45%"> 
+<img src="img/device (19).jpg" width="45%">
 
 ### Help
 
